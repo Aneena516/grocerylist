@@ -1,0 +1,66 @@
+{
+"list":[
+    {
+        "no":"1",
+        "item":"Rice",
+        "quantity":"5kg"
+    },
+    {
+        "no":"2",
+        "item":"Wheat",
+        "quantity":"3kg"
+    },
+    {
+        "no":"3",
+        "item":"Sugar",
+        "quantity":"2kg"
+    },
+    {
+        "no":"4",
+        "item":"Coconut Oil",
+        "quantity":"5L"
+    },
+    {
+        "no":"5",
+        "item":"Onion",
+        "quantity":"2kg"
+    },
+    {
+        "no":"6",
+        "item":"Vinegar",
+        "quantity":"1L"
+    },
+    {
+        "no":"7",
+        "item":"Coffee Powder",
+        "quantity":"1 pack"
+    },
+    {
+        "no":"8",
+        "item":"Carrot",
+        "quantity":"1kg"
+    },
+    {
+        "no":"9",
+        "item":"Biriyani Rice",
+        "quantity":"2kg"
+      
+    },
+    {
+        "no":"10",
+        "item":"Chicken",
+        "quantity":"3kg"
+    },
+    {
+        "no":"11",
+        "item":"Masala Powder",
+        "quantity":"1 pack"
+    },
+    {
+        "no":"12",
+        "item":"Ghee",
+        "quantity":"1 pack"
+    }
+    
+]
+}
